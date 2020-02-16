@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "math-vkv-master/1.0.0": {
+        "runtime": {
+          "math-vkv-master.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "math-vkv-master/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
